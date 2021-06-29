@@ -1,0 +1,14 @@
+D:\nh.hyundai\ConveyerBelt\bin\Release\ConveyerBelt.exe.config
+D:\nh.hyundai\ConveyerBelt\bin\Release\ConveyerBelt.exe
+D:\nh.hyundai\ConveyerBelt\bin\Release\ConveyerBelt.pdb
+D:\nh.hyundai\ConveyerBelt\bin\Release\ConbeyerBeltBiz.dll
+D:\nh.hyundai\ConveyerBelt\bin\Release\ConbeyerBeltBiz.pdb
+D:\nh.hyundai\ConveyerBelt\obj\Release\ConveyerBelt.csprojAssemblyReference.cache
+D:\nh.hyundai\ConveyerBelt\obj\Release\ConveyerBelt.ConveyerBelt.ConveyerBeltSetting.resources
+D:\nh.hyundai\ConveyerBelt\obj\Release\ConveyerBelt.Main.resources
+D:\nh.hyundai\ConveyerBelt\obj\Release\ConveyerBelt.Properties.Resources.resources
+D:\nh.hyundai\ConveyerBelt\obj\Release\ConveyerBelt.csproj.GenerateResource.cache
+D:\nh.hyundai\ConveyerBelt\obj\Release\ConveyerBelt.csproj.CoreCompileInputs.cache
+D:\nh.hyundai\ConveyerBelt\obj\Release\ConveyerBelt.csproj.CopyComplete
+D:\nh.hyundai\ConveyerBelt\obj\Release\ConveyerBelt.exe
+D:\nh.hyundai\ConveyerBelt\obj\Release\ConveyerBelt.pdb

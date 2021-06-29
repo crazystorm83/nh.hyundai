@@ -1,0 +1,8 @@
+D:\nh.hyundai\ConveyerBeltCustomControl\bin\Debug\ConveyerBeltCustomControl.dll
+D:\nh.hyundai\ConveyerBeltCustomControl\bin\Debug\ConveyerBeltCustomControl.pdb
+D:\nh.hyundai\ConveyerBeltCustomControl\obj\Debug\ConveyerBeltCustomControl.csprojAssemblyReference.cache
+D:\nh.hyundai\ConveyerBeltCustomControl\obj\Debug\ConveyerBeltCustomControl.ConveyerBeltItem.resources
+D:\nh.hyundai\ConveyerBeltCustomControl\obj\Debug\ConveyerBeltCustomControl.csproj.GenerateResource.cache
+D:\nh.hyundai\ConveyerBeltCustomControl\obj\Debug\ConveyerBeltCustomControl.csproj.CoreCompileInputs.cache
+D:\nh.hyundai\ConveyerBeltCustomControl\obj\Debug\ConveyerBeltCustomControl.dll
+D:\nh.hyundai\ConveyerBeltCustomControl\obj\Debug\ConveyerBeltCustomControl.pdb

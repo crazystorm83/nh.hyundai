@@ -1,0 +1,6 @@
+D:\nh.hyundai\ConbeyerBeltBiz\bin\Debug\ConbeyerBeltBiz.dll
+D:\nh.hyundai\ConbeyerBeltBiz\bin\Debug\ConbeyerBeltBiz.pdb
+D:\nh.hyundai\ConbeyerBeltBiz\obj\Debug\ConbeyerBeltBiz.csprojAssemblyReference.cache
+D:\nh.hyundai\ConbeyerBeltBiz\obj\Debug\ConbeyerBeltBiz.csproj.CoreCompileInputs.cache
+D:\nh.hyundai\ConbeyerBeltBiz\obj\Debug\ConbeyerBeltBiz.dll
+D:\nh.hyundai\ConbeyerBeltBiz\obj\Debug\ConbeyerBeltBiz.pdb

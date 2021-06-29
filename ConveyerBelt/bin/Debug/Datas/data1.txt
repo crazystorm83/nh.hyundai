@@ -1,0 +1,58 @@
+﻿[
+	{
+		"LabelInfo": {
+			"Name": "0",
+			"Location": "0, 50",
+			"Width": 10,
+			"Height": 20,
+			"BackColor": "Blue"
+		},
+		"HasItem": false,
+		"Location": null,
+		"Barcode": null,
+		"Status": null,
+		"ErrorCode": null
+	},
+	{
+		"LabelInfo": {
+			"Name": "1",
+			"Location": "100, 50",
+			"Width": 100,
+			"Height": 20,
+			"BackColor": "Blue"
+		},
+		"HasItem": false,
+		"Location": null,
+		"Barcode": null,
+		"Status": null,
+		"ErrorCode": null
+	},
+	{
+		"LabelInfo": {
+			"Name": "2",
+			"Location": "0, 80",
+			"Width": 100,
+			"Height": 20,
+			"BackColor": "Blue"
+		},
+		"HasItem": false,
+		"Location": null,
+		"Barcode": null,
+		"Status": null,
+		"ErrorCode": null
+	},
+	{
+		"LabelInfo": {
+			"Name": "3",
+			"Location": "100, 80",
+			"Width": 100,
+			"Height": 20,
+			"BackColor": "Blue"
+		},
+		"HasItem": false,
+		"Location": null,
+		"Barcode": null,
+		"Status": null,
+		"ErrorCode": null
+	}
+]
